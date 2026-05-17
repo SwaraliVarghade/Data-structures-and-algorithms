@@ -14,3 +14,8 @@ int main(){
 	}
 	printf("\nReverse = %s", string);
 }
+/*
+Approach = Used two pointer technique
+One pointer starts from the beginning of the string and another from the end. Characters are swapped until both pointers meet.
+Time Compexity = O(n)
+Space Complexity = O(1)*/
