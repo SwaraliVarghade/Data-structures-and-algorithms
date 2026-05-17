@@ -17,3 +17,9 @@ int main(){
 	}
 	printf("\nPair not exsits");
 }
+/*
+Problem = Two sum 
+Approach = Two Pointer
+Time Complexity = O(n)
+Space Complexity = O(1)
+Drawback = it provides accurate o/p only for sorted data*/
