@@ -26,3 +26,6 @@ int main(){
 	}
 	printf("\nWater Trapped = %d", water);
 }
+/*
+Approach = Two pointer 
+Time complexity = O(n)*/
