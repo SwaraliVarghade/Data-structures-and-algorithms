@@ -7,7 +7,8 @@ I have recently started practicing Data Structures and Algorithms to improve my 
 ## Topics Started
 
 - Arrays
-- Two Pointer Technique
+1. Two Pointer Technique
+2. Sliding Window
 
 More topics will be added regularly as I continue learning and practicing.
 
